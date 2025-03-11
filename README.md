@@ -6,8 +6,7 @@ My hobbies include gaming, D&D, writing, drawing, nail polish, and I have a seco
 
 # Coding stats
 
-[![dsuurlant's stats](https://github-readme-stats.vercel.app/api?username=dsuurlant)](https://github.com/anuraghazra/github-readme-stats) ![dsuurlant's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsuurlant&layout=compact)
-
+[![dsuurlant's stats](https://github-readme-stats.vercel.app/api?username=dsuurlant)](https://github.com/anuraghazra/github-readme-stats) 
 
 # Speakership
 
