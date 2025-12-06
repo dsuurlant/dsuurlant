@@ -4,10 +4,6 @@ I grew up in a tiny village in the south of the Netherlands. I first learned abo
 
 My hobbies include gaming, D&D, writing, drawing, nail polish, and I have a second job as cat mom that is mostly paid in cuddles.
 
-# Coding stats
-
-[![dsuurlant's stats](https://github-readme-stats.vercel.app/api?username=dsuurlant)](https://github.com/anuraghazra/github-readme-stats) 
-
 # Speakership
 
 I'm open to speak at conferences! Ask me about:
