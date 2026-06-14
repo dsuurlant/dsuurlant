@@ -8,9 +8,12 @@ My hobbies include gaming, D&D, writing, drawing, nail polish, and I have a seco
 
 I'm open to speak at conferences! Ask me about:
 
+* Maintenance and development for Legacy codebases
+* Making your codebase AI-ready
+* Introducing AI tooling to development teams
+* Tackling big software projects one step at a time
 * Burnout signaling, prevention and recovery
 * Being a mental health advocate for yourself and others
-* Maintenance and development for Legacy codebases
 * Collaboration, communication and culture in fully remote teams
 * Neurodivergence and the tech industry
 * Championing DEI initiatives
